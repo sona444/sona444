@@ -6,8 +6,8 @@
 - 📫 You can reach me @ sonakshi2500@gmail.com
 <br><hr>
 **We can connect on linkedin from this link ☞
-https://www.linkedin.com/in/sonakshi-mutreja/**
-
-
+https://www.linkedin.com/in/sonakshi-mutreja/ **
+##TECH STACK
+<img src="img/CSS.png">
 </div>
 
