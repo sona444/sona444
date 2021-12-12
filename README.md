@@ -9,6 +9,8 @@
 https://www.linkedin.com/in/sonakshi-mutreja/ **
 
 ## TECH STACK
+| (img/HTML.PNG)  | (img/CSS.png) |
+| <img src="img/JS.png" width=50px style="float:left !important;"> |  |
 <img src="img/HTML.PNG" width=50px style="float:left !important;">
 <img src="img/CSS.png" width=50px style="float:left !important;">
 <img src="img/JS.png" width=50px style="float:left !important;">
