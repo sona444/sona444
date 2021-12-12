@@ -7,7 +7,8 @@
 <br><hr>
 **We can connect on linkedin from this link ☞
 https://www.linkedin.com/in/sonakshi-mutreja/ **
-##TECH STACK
-<img src="img/CSS.png">
+
+## TECH STACK
+<img src="img/CSS.png" width=30px>
 </div>
 
