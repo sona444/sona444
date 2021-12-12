@@ -9,6 +9,6 @@
 https://www.linkedin.com/in/sonakshi-mutreja/ **
 
 ## TECH STACK
-<img src="img/HTML.PNG" width=70px height=70px style="float:left !important;"> &nbsp;&nbsp; <img src="img/CSS.png" width=70px height=70px style="float:left !important;"> &nbsp; &nbsp;<img src="img/JS.png" width=70px height=70px style="float:left !important;"> &nbsp;&nbsp;
+<img src="img/HTML.PNG" width=60px height=70px style="float:left !important;"> &nbsp;&nbsp; <img src="img/CSS.png" width=60px height=70px style="float:left !important;"> &nbsp; &nbsp;<img src="img/JS.png" width=60px height=70px style="float:left !important;"> &nbsp;&nbsp; <img src="img/PYTHON.jpg" width=60px height=70px style="float:left !important;"> &nbsp; &nbsp;<img src="img/FLASK.png" width=60px height=70px style="float:left !important;"> &nbsp;&nbsp; <img src="img/FLASK.png" width=60px height=70px style="float:left !important;"> &nbsp; &nbsp;<img src="img/SHOPIFY.png" width=60px height=70px style="float:left !important;"> &nbsp;&nbsp; <img src="img/WORDPRESS.png" width=60px height=70px style="float:left !important;"> &nbsp; &nbsp;<img src="img/REACT.jpg" width=60px height=70px style="float:left !important;"> &nbsp;&nbsp;
 
 
