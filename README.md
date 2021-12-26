@@ -13,4 +13,4 @@ https://www.linkedin.com/in/sonakshi-mutreja/ </b>
 
 # Github Activity
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sona444&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-![Sonkashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sona444)
+![Sonkashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sona444&theme=merco)
