@@ -4,6 +4,7 @@
 - 🌱 I’m currently working as a Web developer and a Open source enthusiast
 - 💞️ I’m looking to collaborate in C/C++, Python and web development
 - 📫 You can reach me @ sonakshi2500@gmail.com
+- ![](https://komarev.com/ghpvc/?username=sona444&color=dc143c)
 <br><hr>
 <b> We can connect on linkedin from this link ☞
 https://www.linkedin.com/in/sonakshi-mutreja/ </b>
