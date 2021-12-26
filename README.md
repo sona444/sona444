@@ -10,7 +10,7 @@
  [![GitHub Sona444](https://img.shields.io/github/followers/sona444?label=follow&style=social)](https://github.com/sona444)
 [![Linkedin: Sonakshi Mutreja](https://img.shields.io/badge/-Sonakshi%20Mutreja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonakshi-mutreja/)](https://www.linkedin.com/in/sonakshi-mutreja/)
 <br><hr>
-<b> We can connect on linkedin from this link ☞
+<b> Let's get connected on linkedIn ☞
 https://www.linkedin.com/in/sonakshi-mutreja/ </b>
 
 ## TECH STACK
