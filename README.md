@@ -1,8 +1,8 @@
 # Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👋 Hi, I’m <b>Sonakshi</b>.
-- 👀 I’m a Web/Software Developer from India
-- 🌱 I’m currently working as a Web developer and I'am an Open source enthusiast
-- 💞️ I’m looking to collaborate in C/C++, Python and web development
+- 👀 I’m a Web/Software Developer from India.
+- 🌱 I’m currently working as a Web developer and I'am an Open source enthusiast.
+- 💞️ I’m looking to collaborate in C/C++, Python and web development.
 - 📫 You can reach me @ sonakshi2500@gmail.com
 <br>
 
