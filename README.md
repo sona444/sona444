@@ -1,4 +1,4 @@
-# Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hola!
 - 👋 Hi, I’m <b>Sonakshi</b>.
 - 👀 I’m a Web/Software Developer from India.
 - 🌱 I’m currently working as a Web developer and I'am an Open source enthusiast.
