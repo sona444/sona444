@@ -19,7 +19,7 @@ https://www.linkedin.com/in/sonakshi-mutreja/ </b>
 # Github Activity
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sona444&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 ![Sonkashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sona444&theme=radical)
- [![sonakshi's GitHub | Topics Over Time](https://stats.quine.sh/sonakshi/topics-over-time?theme=light)](https://quine.sh)
+[![sonakshi's GitHub | Topics Over Time](https://stats.quine.sh/sonakshi/topics-over-time?theme=light&width=50)](https://quine.sh)
  [![sonakshi's GitHub | Stats](https://stats.quine.sh/sonakshi/github?theme=dark&width=50)](https://quine.sh)
 
 # Languages Used
