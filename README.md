@@ -22,3 +22,5 @@ https://www.linkedin.com/in/sonakshi-mutreja/ </b>
 
 # Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sona444&theme=radical)
+
+ [![sonakshi's GitHub | Stats](https://stats.quine.sh/sonakshi/github?theme=dark)](https://quine.sh)
